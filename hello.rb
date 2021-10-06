@@ -60,3 +60,12 @@ puts "Your name is #{name} and you are #{age} years old"
 string_1 = "Hello, "
 string_2 = 'World'
 puts string_1 + string_2
+
+puts string_1.length
+puts string_1.reverse
+puts string_1.upcase
+puts string_1.downcase
+
+var_1 = "5"
+var_2 = "2"
+puts var_1 + var_2
